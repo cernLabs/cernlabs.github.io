@@ -1,0 +1,64 @@
+/* general */
+
+P { 
+  text-align: center 
+  }
+
+H1 {
+  text-align: center 
+  }
+H2 {
+  text-align: center 
+  }
+H3 { 
+  text-align: center
+  }
+
+
+ul{
+  text-align: center
+}
+
+li{
+  text-align: center
+  }
+
+body {
+  background-image: url("bg.png");
+  background-repeat: repeat;
+}
+
+/* navigation bar */
+.navbar {
+    position: 0;
+}
+
+
+.navbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000000;
+  
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 30px 30px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.navbar li a:hover {
+  background-color: #111;
+}
+
+
+
