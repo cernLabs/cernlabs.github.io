@@ -70,7 +70,7 @@ body {
 .badge-container {
   display: flex;
   justify-content: left;
-  align-items: left;
+  align-items: center;
 }
 
 .badge-container img {
