@@ -60,5 +60,23 @@ body {
   background-color: #111;
 }
 
+.footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.badge-container {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+}
+
+.badge-container img {
+  margin: 10px;
+  width: 166px; /* adjust the size as needed */
+}
+
 
 
