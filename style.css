@@ -75,7 +75,8 @@ body {
 
 .badge-container img {
   margin: 10px;
-  width: 100px; /* adjust the size as needed */
+  width: 222px; /* adjust the size as needed */
+  display: flex; /* horizontal display */
 }
 
 
